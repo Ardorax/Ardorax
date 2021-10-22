@@ -16,7 +16,7 @@ During my last year of High School my main Computer project was the Discord bots
 
 ## Some Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardorax&bg_color=00000000&text_color=ffffff&count_private=True)](https://github.com/anuraghazra/github-readme-stats?)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardorax&bg_color=00000000&text_color=ffffff&count_private=true)](https://github.com/anuraghazra/github-readme-stats?)
 
 
 <!--
