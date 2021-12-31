@@ -15,7 +15,7 @@ A few months before my second year in High school (2019-2020) I learned [**Pytho
 During my last year of High School my main Computer project was the Discord bots : [Trinité](https://github.com/Ardorax/Trinite) that I made for the server of the High School. This bot created profile for the students with their languages, specialty, project for the future… It was also this year that I joined Epitech, my computer science school.
 
 ## Some Stats
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardorax&show_icons=true&bg_color=00000000&text_color=ffffff&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardorax&bg_color=00000000&text_color=ffffff&count_private=true)](https://github.com/anuraghazra/github-readme-stats?)
 
 
