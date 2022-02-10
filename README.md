@@ -17,9 +17,10 @@ During my last year of High School my main Computer project was the Discord bots
 ## PortFolio
 You will find here some of my projects to show my competances :
 
-C : [Minerunner](https://github.com/Ardorax/MineRunner)
-Node Js : [Trinité](https://github.com/Ardorax/Trinite)
-Github Action : [Epitech Coding Style](https://github.com/Ardorax/EpitechStyle)
+C : [Minerunner](https://github.com/Ardorax/MineRunner)<br />
+Node Js : [Trinité](https://github.com/Ardorax/Trinite)<br />
+Github Action : [Epitech Coding Style](https://github.com/Ardorax/EpitechStyle)<br />
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png
 
 ## Some Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardorax&show_icons=true&bg_color=00000000&text_color=ffffff&count_private=true)
