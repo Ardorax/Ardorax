@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ## ME
-Hello, my name is **Valentin**. I live in Villeurbanne in France. It is a city right next to Lyon. I like video game :video_game:, bike :bike:, and music :headphones:.
+Hello, my name is **Valentin**. I live in Villeurbanne in France. It is a city right next to Lyon. I like video game :video_game:, bike :bike:, and music :headphones:.<br />
+#### If you are looking for a developer, you can check this page and my [Linkedin](https://www.linkedin.com/in/valentin-dury/).
 
 ## HISTORY
 I started coding at the end of 2014 with [Scratch](https://scratch.mit.edu/). I discovered this amazing tool when I was reading an old magazine ([Science et Vie Junior](https://science-et-vie-junior.fr/)) in my school. Then I discovered [**Batch**](https://fr.wikipedia.org/wiki/.bat) and [**Visual Basic Script**](https://fr.wikipedia.org/wiki/VBScript) with YouTube tutorial. I made a few programs, and it was amazing because I just wrote text in the basic Windows notepad, registered at .vbs or .bat, corrected some bugs and it was working in all Windows PC. I even made a program for a math assignment.
@@ -17,11 +18,18 @@ During my last year of High School my main Computer project was the Discord bots
 ## PortFolio
 You will find here some of my projects to show my competances :
 
-C : [Minerunner](https://github.com/Ardorax/MineRunner)<br />
-Node Js : [Trinité](https://github.com/Ardorax/Trinite)<br />
-Github Action : [Epitech Coding Style](https://github.com/Ardorax/EpitechStyle)<br />
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png
+<p align="center">
+    <a href = "https://github.com/Ardorax/MineRunner" title="Minerunner">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C" width="50"/>
+    </a>
+    <a href = "https://github.com/Ardorax/MineRunner" title="Trinité">
+        <img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/14/thumb_formation-node-js.png" alt="Node JS" width="50"/>
+    </a>
+    <a href = "https://github.com/Ardorax/MineRunner" title="EpitechStyle">
+        <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="Github Action" width="50"/>
+    </a>
+</p>
 
 ## Some Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardorax&show_icons=true&bg_color=00000000&text_color=ffffff&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardorax&show_icons=true&bg_color=00000000&text_color=ffffff&count_private=true)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardorax&bg_color=00000000&text_color=ffffff&count_private=true)](https://github.com/anuraghazra/github-readme-stats?)
