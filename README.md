@@ -14,22 +14,13 @@ A few months before my second year in High school (2019-2020) I learned [**Pytho
 
 During my last year of High School my main Computer project was the Discord bots : [Trinité](https://github.com/Ardorax/Trinite) that I made for the server of the High School. This bot created profile for the students with their languages, specialty, project for the future… It was also this year that I joined Epitech, my computer science school.
 
+## PortFolio
+You will find here some of my projects to show my competances :
+
+C : [Minerunner](https://github.com/Ardorax/MineRunner)
+Node Js : [Trinité](https://github.com/Ardorax/Trinite)
+Github Action : [Epitech Coding Style](https://github.com/Ardorax/EpitechStyle)
+
 ## Some Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardorax&show_icons=true&bg_color=00000000&text_color=ffffff&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardorax&bg_color=00000000&text_color=ffffff&count_private=true)](https://github.com/anuraghazra/github-readme-stats?)
-
-
-<!--
-**Ardorax/Ardorax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
