@@ -22,10 +22,10 @@ You will find here some of my projects to show my competances :
     <a href = "https://github.com/Ardorax/MineRunner" title="Minerunner">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C" width="50"/>
     </a>
-    <a href = "https://github.com/Ardorax/MineRunner" title="Trinité">
+    <a href = "https://github.com/Ardorax/Trinite" title="Trinité">
         <img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/14/thumb_formation-node-js.png" alt="Node JS" width="50"/>
     </a>
-    <a href = "https://github.com/Ardorax/MineRunner" title="EpitechStyle">
+    <a href = "https://github.com/Ardorax/EpitechStyle" title="EpitechStyle">
         <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="Github Action" width="50"/>
     </a>
 </p>
