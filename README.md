@@ -11,7 +11,7 @@ I discovered Discord in February 2017 through a friend. I created my first Disco
 
 By creating Discord bots, I learned JavaScript but client side with [Node.js](https://nodejs.org/en/), I learned to use an API with [Discord JS](https://discord.js.org/) and I also learned how to manage a Database with [**SQL**](https://en.wikipedia.org/wiki/SQL) thanks to a Node.js module.
 
-A few months before my second year in High school (2019-2020) I learned [**Python**](https://www.python.org/). It was useful because I have chosen Computer Science as my one-year specialty, and we studied with Python. I got the grade 20/20 (the best) for my bachelor's degree.
+A few months before my second year in High school (2019-2020) I learned [**Python**](https://www.python.org/). It was useful because I have chosen Computer Science as my one-year specialty, and we studied with Python. I got the highest mark in computer science at the high school diploma.
 
 During my last year of High School my main Computer project was the Discord bots : [Trinité](https://github.com/Ardorax/Trinite) that I made for the server of the High School. This bot created profile for the students with their languages, specialty, project for the future… It was also this year that I joined Epitech, my computer science school.
 
