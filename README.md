@@ -28,6 +28,9 @@ You will find here some of my projects to show my competances :
     <a href = "https://github.com/Ardorax/EpitechStyle" title="EpitechStyle">
         <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="Github Action" width="50"/>
     </a>
+    <a href = "https://github.com/Ardorax/MazeViewer" title="EpitechStyle">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="50"/>
+    </a>
 </p>
 
 ## Some Stats
