@@ -31,6 +31,9 @@ You will find here some of my projects to show my competances :
     <a href = "https://github.com/Ardorax/MazeViewer" title="EpitechStyle">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="50"/>
     </a>
+    <a href = "git@github.com:Ardorax/MyDiscord.git" title="MyDiscord">
+        <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="React" width="50"/>
+    </a>
 </p>
 
 ## Some Stats
